@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Component;
+namespace App\Component\User\Model;
 
 /**
  * @Entity
